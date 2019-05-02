@@ -37,7 +37,7 @@
     "uniqCompNum": 3,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/noun-parametric-design-1457872-01-100x75.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
