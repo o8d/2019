@@ -562,11 +562,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"85\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>\n                    台南日治時期所稱的「大宮町」在哪裡\n                </b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rvWJiSNyA2",
+          "_anchor": "content9-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-c"
+          "_params": {}
         },
         {
           "alias": false,
@@ -582,11 +582,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">就是今日民權路至府前路的永福路段</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rvUgpRAg1n",
+          "_anchor": "content4-4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-4"
+          "_params": {}
         },
         {
           "alias": false,
@@ -604,11 +604,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>台南為台彎最早施行日治時期「町名改正」的縣市。日治期間致力推動地方自治與都市更新計畫的重大改變，將施行了兩百多年的保、里基層行政區，改為街、庄制，接著再將中式街庄改為日式町名，而能夠「改正町名」同時意涵榮譽的象徵，台南與台中於1916年大正五年公布後由台南率先於西元1919年大正八年開始實施，後續其他縣市也相繼落實。</p><p>大宮町作為台灣日治時期的台南行政區域，因為鄰近台南神社而名為「大宮町」，全町域區分一丁目到四丁目，同現今日台南市中西區永福路二段的範圍。</p><p><span style=\"font-size: 1rem;\">蝸牛巷街區所在，由台南市日治時期「大宮町二丁目」、「末廣町二丁目」、「西門町四丁目」、「錦町三丁目」四大行政區所圍圈的區域，是日治期間最繁華的地帶，緊鄰商業活動發達的「銀座通」以及「本町通」，雖然並非日治期間的城中之重，卻也是位處城中之中。日治期間的全町風華更與當時文化商業活動的繁榮相關連。試圖以舊時地圖為線索，對照今昔，拼湊出舊時光可能的圖景。</span><br></p><p><br></p><p>＃「大宮町」、「末廣町」、「西門町」、「錦町」怎麼理解<i>[註1]</i><br>＃「台南神社」怎麼理解<i>[註2]</i><br>＃「町」就是很繁榮的意思嗎？<i>[註3]</i><br><span style=\"font-size: 1rem;\">＃「丁目」該怎麼理解？<i>[註4]</i><br>＃大宮町為什麼叫大宮町？在台日治時期的町名都是怎麼命名的？<i>[註5]</i><br></span><span style=\"font-size: 1rem;\">＃只有台南有大宮町嗎？日治時期的全台大宮町在哪裡？<i>[註6]<br></i></span><span style=\"font-size: 1rem;\">＃「銀座通」、「本町通」在哪裡？<i>[註7]</i></span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rvVemrWPaa",
+          "_anchor": "content1-7",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-7"
+          "_params": {}
         },
         {
           "alias": false,
@@ -623,11 +623,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>註＊<br>1. &nbsp;時空轉換來理解町名，大宮町指的是今日的永福路、末廣町即中正路、西門町即西門路、錦町即民生路。<br>2. 台南神社：建造於1923年大正十二年，1969年拆毀，現址為2019年初落成開館的台南市立美術館。<br>3.「町」就是榮譽的標誌。蔡培惠、陳怡慧、陸傳傑(2013)。&lt;圖書台灣地名故事&gt;。新北市：遠足文化，頁48。<br></b><b style=\"font-size: 0.7rem;\">4.「丁目」就是現今「段」的意思。<br>5. 町名有源自年號、知名總督、傳統街庄名稱、地標、地理景觀或取祥瑞之意命名。以大宮町來說，就是境內有神社。<br>6.全台除了台南有大宮町之外，台北的中山區劍潭、明勝、康寧、福樂里，也稱作大宮町。蔡培惠、陳怡慧、陸傳傑(2013)。&lt;圖書台灣地名故事&gt;。新北市：遠足文化，頁57。<br>7.「銀座通」即指現在中正路商圈，「本町通」即指現在的民權路。</b></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rvWC8turFn",
+          "_anchor": "content1-b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-b"
+          "_params": {}
         },
         {
           "alias": false,
@@ -868,6 +868,7 @@
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "rvVFu6c6Rt",
+          "_anchor": "slider1-8",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -916,8 +917,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
               }
             ]
-          },
-          "_anchor": "slider1-8"
+          }
         },
         {
           "alias": false,
@@ -935,11 +935,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b><br>地圖影像來源參照｜劉克全先生，台南市文化資產保護協會,西元1929年,昭和四年編印發行的「大日本職業別明細圖」,局部採用。<br><br></b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rvUsV6eHH0",
+          "_anchor": "content1-6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-6"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1013,7 +1013,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>葉石濤1991年四月於臺灣新聞報副刊發表的小說&lt;往事如雲&gt;中提及「蝸牛巷」的生活場景，葉石濤通過隱身於秘密身份「辜安順」的視角書寫，回憶所及的生活場景。葉石濤在十六歲時遷居嶺後街（即現稱的蝸牛巷）直至四十一歲移居高雄，期間雖也輾轉居住過其他縣市與住所，但多數青壯歲月還都是在這裡渡過。</p><p><i><br>「辜安順的阿母把位於紅寮厝的三甲看天田賣掉，在這蝸牛巷巷頭買了老屋居住， 貪的是這巷路位於府城西門町最繁華熱鬧的「宮古座」戲院後頭，是鬧區中幽靜的山谷的關係。&nbsp;」1991 &lt;往事如雲&gt;</i></p><p><br><i>「我在府城一共住過三個地方，老家在打銀街，後來在戰爭中被日本人強迫拆掉， 所以不得不搬到「萬福庵」附近居住。光復後有一段時期住在延平戲院後頭的嶺後街；我那時候在永福國小任教，所以早上學校的鐘聲一響，我立刻起床，匆匆 洗個臉，還可以趕得上早會，正是方便得很。」1996. &lt;府城瑣憶&gt;</i></p><p><i><br></i><br>葉石濤描述的幽谷，即是當前以永福、中正、西門、民生路圍塑成的社區，相較在這四條井字幹道上的過於喧囂，社區裡很真實的還能遇見葉老筆桿下所形容如「蝸牛」的街區樣貌，是一種難以明示，只能體感的：安靜與緩慢。葉老那時偏安的心情，描繪出四周繁雜、裏頭靜詳的景況，依舊長遠深刻，至今仍然字字寫實，社區的節奏，依然以蝸牛姿態延續著......</p><p><br></p><p><br>＃嶺後街？台南舊地名沿革怎麼理解，「蝸牛巷」的命名不是隨便來的。<br>＃我們所知道葉石濤在台南曾經住過的地方<br>＃105年台南市文化局起推動的保西宮、沙淘宮歷史街區改造工程vs104年文化部藝術浸潤空間的計畫</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>葉石濤1991年四月於臺灣新聞報副刊發表的小說&lt;往事如雲&gt;中提及「蝸牛巷」的生活場景，葉石濤通過隱身於秘密身份「辜安順」的視角書寫，回憶所及的生活場景。葉石濤二十一歲時遷居蝸牛巷直至四十一歲移居高雄，期間雖也輾轉居住過其他縣市與住所，但多數青壯歲月還都是在這裡渡過。</p><p><i><br>「辜安順的阿母把位於紅寮厝的三甲看天田賣掉，在這蝸牛巷巷頭買了老屋居住， 貪的是這巷路位於府城西門町最繁華熱鬧的「宮古座」戲院後頭，是鬧區中幽靜的山谷的關係。&nbsp;」1991 &lt;往事如雲&gt;</i></p><p><br><i>「我在府城一共住過三個地方，老家在打銀街，後來在戰爭中被日本人強迫拆掉， 所以不得不搬到「萬福庵」附近居住。光復後有一段時期住在延平戲院後頭的嶺後街；我那時候在永福國小任教，所以早上學校的鐘聲一響，我立刻起床，匆匆 洗個臉，還可以趕得上早會，正是方便得很。」1996. &lt;府城瑣憶&gt;</i></p><p><i><br></i><br>葉石濤描述的幽谷，即是當前以永福、中正、西門、民生路圍塑成的社區，相較在這四條井字幹道上的過於喧囂，社區裡很真實的還能遇見葉老筆桿下所形容如「蝸牛」的街區樣貌，是一種難以明示，只能體感的：安靜與緩慢。葉老那時偏安的心情，描繪出四周繁雜、裏頭靜詳的景況，依舊長遠深刻，至今仍然字字寫實，社區的節奏，依然以蝸牛姿態延續著......</p><p><br></p><p><br>＃嶺後街？台南舊地名沿革怎麼理解，「蝸牛巷」的命名不是隨便來的。<br>＃我們所知道葉石濤在台南曾經住過的地方<br>＃盤點葉石濤文學地景裡的「巷」<br>＃105年台南市文化局起推動的保西宮、沙淘宮歷史街區改造工程vs104年文化部藝術浸潤空間的計畫</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
