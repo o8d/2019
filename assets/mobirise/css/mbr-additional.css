@@ -2956,7 +2956,7 @@ body {
   color: #232323;
 }
 .cid-rxxD628D3F {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -3046,4 +3046,16 @@ body {
   opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-rxyjjb2HTZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #d24848;
+}
+.cid-rxyjjb2HTZ .mbr-text,
+.cid-rxyjjb2HTZ blockquote {
+  color: #767676;
+}
+.cid-rxyjjb2HTZ .mbr-text {
+  color: #ffffff;
 }
