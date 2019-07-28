@@ -42,17 +42,17 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.08rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (0.895rem + (0.7 - 0.895) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.04rem;
+    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
@@ -1918,6 +1918,18 @@ body {
 .cid-rvVemrWPaa .mbr-text {
   color: #767676;
 }
+.cid-rxwSC6CcDc {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rxwSC6CcDc .mbr-text,
+.cid-rxwSC6CcDc blockquote {
+  color: #767676;
+}
+.cid-rxwSC6CcDc .mbr-text {
+  color: #767676;
+}
 .cid-rvWC8turFn {
   padding-top: 30px;
   padding-bottom: 60px;
@@ -2174,14 +2186,14 @@ body {
 .cid-rvUsV6eHH0 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #d24848;
 }
 .cid-rvUsV6eHH0 .mbr-text,
 .cid-rvUsV6eHH0 blockquote {
   color: #767676;
 }
 .cid-rvUsV6eHH0 .mbr-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rwNxJjjaPe .modal-body .close {
   background: #1b1b1b;
@@ -2422,7 +2434,7 @@ body {
   z-index: auto;
 }
 .cid-rwNxJjjaPe P {
-  text-align: right;
+  text-align: left;
 }
 .cid-rwNxJjjaPe H2 {
   text-align: left;
@@ -2430,14 +2442,14 @@ body {
 .cid-rwNxP4zfDk {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #efefef;
+  background-color: #d24848;
 }
 .cid-rwNxP4zfDk .mbr-text,
 .cid-rwNxP4zfDk blockquote {
   color: #767676;
 }
 .cid-rwNxP4zfDk .mbr-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rw0m5EJxGU {
   padding-top: 105px;
@@ -2463,24 +2475,78 @@ body {
   }
 }
 .cid-rw0msvR996 {
-  padding-top: 0px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rw0msvR996 .mbr-section-subtitle {
   color: #232323;
   text-align: center;
 }
-.cid-rw0EI0sCxG {
+.cid-rxwNEQE7Oi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxwNEQE7Oi .mbr-text,
+.cid-rxwNEQE7Oi blockquote {
+  color: #767676;
+}
+.cid-rxwTWVZJsd {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rw0EI0sCxG .mbr-text,
-.cid-rw0EI0sCxG blockquote {
+.cid-rxwTWVZJsd .mbr-text,
+.cid-rxwTWVZJsd blockquote {
   color: #767676;
 }
-.cid-rw0EI0sCxG .mbr-text {
+.cid-rxwTWVZJsd .mbr-text {
+  color: #767676;
+}
+.cid-rxwMoVnoUu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxwMoVnoUu .mbr-text,
+.cid-rxwMoVnoUu blockquote {
+  color: #767676;
+}
+.cid-rxwNPbdpVq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxwNPbdpVq .mbr-text,
+.cid-rxwNPbdpVq blockquote {
+  color: #767676;
+}
+.cid-rxwO498mCi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxwO498mCi .mbr-text,
+.cid-rxwO498mCi blockquote {
+  color: #767676;
+}
+.cid-rxwOziFbpV {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxwOziFbpV .mbr-text,
+.cid-rxwOziFbpV blockquote {
+  color: #767676;
+}
+.cid-rxwOWi9l1a {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwOWi9l1a .mbr-text,
+.cid-rxwOWi9l1a blockquote {
   color: #767676;
 }
 .cid-rw0Gcf9bTu {
@@ -2523,6 +2589,82 @@ body {
 .cid-rwNNwzJlvR .mbr-section-subtitle {
   color: #232323;
   text-align: center;
+}
+.cid-rxx60Qatbi {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxx60Qatbi .mbr-text,
+.cid-rxx60Qatbi blockquote {
+  color: #767676;
+}
+.cid-rxx8RhMbPS {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rxx8RhMbPS .mbr-text,
+.cid-rxx8RhMbPS blockquote {
+  color: #767676;
+}
+.cid-rxxbyFeQ0L {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rxxbyFeQ0L .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rxxbyFeQ0L .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rxxbyFeQ0L .mbr-text {
+  color: #767676;
+}
+.cid-rxxbyFeQ0L .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rxxbyFeQ0L .mbr-author-name {
+  color: #767676;
+}
+.cid-rxxbyFeQ0L .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rxxbyFeQ0L .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rxxbyFeQ0L .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rxxbyFeQ0L .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rxxbyFeQ0L .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-rxxbyFeQ0L .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
 .cid-rwY513HrHy {
   padding-top: 30px;
