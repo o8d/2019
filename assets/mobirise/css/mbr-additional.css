@@ -3059,3 +3059,35 @@ body {
 .cid-rxyjjb2HTZ .mbr-text {
   color: #ffffff;
 }
+.cid-rxBuq6EMRI {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rxBuq6EMRI .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-rxBuq6EMRI .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-rxBuq6EMRI .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rxBuq6EMRI .mbr-figure,
+  .cid-rxBuq6EMRI img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rxBuq6EMRI .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rxBuq6EMRI .mbr-author-desc {
+  color: #232323;
+}
