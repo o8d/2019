@@ -2717,8 +2717,13 @@ body {
 .cid-rwNxP4zfDk .mbr-text DIV {
   text-align: left;
 }
+.cid-ryguz03QbK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/shinjin-18-1557x1134.jpg");
+}
 .cid-rw0m5EJxGU {
-  padding-top: 105px;
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -3580,7 +3585,7 @@ body {
   text-align: center;
 }
 .cid-ry1nzwW1Xd {
-  padding-top: 105px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -3610,6 +3615,102 @@ body {
 @media (max-width: 768px) {
   .cid-ry4vPDl3Dj .image-block {
     width: 100% !important;
+  }
+}
+.cid-rygn6E4qzW {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rygn6E4qzW .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rygn6E4qzW .step {
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+  padding-bottom: 0;
+}
+@media (min-width: 768px) {
+  .cid-rygn6E4qzW .separline .step-wrapper {
+    position: relative;
+  }
+  .cid-rygn6E4qzW .separline .step-wrapper:before,
+  .cid-rygn6E4qzW .separline .step-wrapper:after {
+    top: 24px;
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: calc(50% + 15px - 22px - 8px);
+    background-color: #efefef;
+  }
+  .cid-rygn6E4qzW .separline .step-wrapper:before {
+    left: -15px;
+  }
+  .cid-rygn6E4qzW .separline .step-wrapper:after {
+    left: calc(50% + 8px + 22px);
+  }
+  .cid-rygn6E4qzW .separline.last-child .step-wrapper:after,
+  .cid-rygn6E4qzW .separline:nth-child(3n) .step-wrapper:after,
+  .cid-rygn6E4qzW .separline:nth-child(3n+1) .step-wrapper:before {
+    background: none;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rygn6E4qzW .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rygooIVIur {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rygooIVIur .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rygooIVIur .step {
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+  padding-bottom: 0;
+}
+@media (min-width: 768px) {
+  .cid-rygooIVIur .separline .step-wrapper {
+    position: relative;
+  }
+  .cid-rygooIVIur .separline .step-wrapper:before,
+  .cid-rygooIVIur .separline .step-wrapper:after {
+    top: 24px;
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: calc(50% + 15px - 22px - 8px);
+    background-color: #efefef;
+  }
+  .cid-rygooIVIur .separline .step-wrapper:before {
+    left: -15px;
+  }
+  .cid-rygooIVIur .separline .step-wrapper:after {
+    left: calc(50% + 8px + 22px);
+  }
+  .cid-rygooIVIur .separline.last-child .step-wrapper:after,
+  .cid-rygooIVIur .separline:nth-child(3n) .step-wrapper:after,
+  .cid-rygooIVIur .separline:nth-child(3n+1) .step-wrapper:before {
+    background: none;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rygooIVIur .card:not(.last-child) {
+    padding-bottom: 1.5rem;
   }
 }
 .cid-ry4wpMmGnk {
