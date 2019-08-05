@@ -3074,7 +3074,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/3-1-2000x1345.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x1456.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -3092,7 +3092,7 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-2-2000x1346.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2-2000x1457.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
